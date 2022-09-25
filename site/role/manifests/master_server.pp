@@ -1,4 +1,4 @@
 class role::master_server {
-  include proifle::base
-  include proifle::agent_nodes
+  include profile::base
+  include profile::agent_nodes
 }
